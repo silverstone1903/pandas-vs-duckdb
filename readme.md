@@ -1,10 +1,10 @@
 ## Overview
 
-The notebook in this repository (pandas_vs_duckdb.ipynb) compares performance across several real-world data operations, measuring execution time for each approach.
+The notebook in this repository [pandas_vs_duckdb.ipynb](pandas_vs_duckdb.ipynb) compares performance across several real-world data operations measuring execution time for each approach.
 
 ## Dataset
 
-The dataset (artists.parquet) contains Spotify artist information with the following columns:
+The dataset [Anna’s Archive Spotify 2025-07 Metadata](https://www.kaggle.com/datasets/lordpatil/spotify-metadata-by-annas-archive/data) (artists.parquet) contains Spotify artist information with the following columns:
 
 | Column | Description |
 |--------|-------------|
